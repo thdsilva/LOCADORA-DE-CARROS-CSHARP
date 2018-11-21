@@ -1,0 +1,12 @@
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\bin\Debug\ACRRentalCar.exe.config
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\bin\Debug\ACRRentalCar.exe
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\bin\Debug\ACRRentalCar.pdb
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.frmPrincipal.resources
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.Properties.Resources.resources
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.exe
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.pdb
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.fmrCadastroCliente.resources
+C:\Users\thiag\source\repos\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.frmConsultaCliente.resources
